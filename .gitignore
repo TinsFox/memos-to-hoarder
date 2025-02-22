@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+*.log
+dist/
+.env
+.idea/
+.vscode/
+build/
+coverage/
+.next/
+.cache/
+tmp/
+temp/
+memos-mdfile/*.md
+
+# 配置文件
+app-config.ts

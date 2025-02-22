@@ -1,0 +1,14 @@
+{
+	"name": "memos-to-hoarder",
+	"version": "0.0.1",
+	"description": "将 memos 数据导入到 hoarder 中",
+	"scripts": {
+		"start": "tsx src/main-app.ts"
+	},
+	"dependencies": {
+		"tsx": "4.19.0",
+		"gray-matter": "^4.0.3",
+		"@types/node": "^22.13.5",
+		"typescript": "^5.7.3"
+	}
+}
